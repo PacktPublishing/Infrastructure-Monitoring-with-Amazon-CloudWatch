@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Cloudformation Template to validate nOps Rules Violation
+Parameters:
+  AppURL:
+    Type: String
+  AppPath:
+    Type: String
+  AppPort: 
+Resources:
+  SimpleHealthCheck: 
+    Type: 'AWS::Route53::HealthCheck'
+    Properties: 
+      HealthCheckConfig:         
+        Port: !Ref AppPort
+        Type: HTTP
+        ResourcePath: !Ref AppPath
+        FullyQualifiedDomainName: !Ref AppURL
+        RequestInterval: 30
+        FailureThreshold: 3
+      HealthCheckTags: 
+        - 
+          Key: AppURL
+          Value: !Ref AppURL
