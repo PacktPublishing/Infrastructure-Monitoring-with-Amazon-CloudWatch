@@ -1,5 +1,5 @@
 {
-    "source:"[
+    "source":[
         "aws.ecs"
     ],
     "detail-type": [
