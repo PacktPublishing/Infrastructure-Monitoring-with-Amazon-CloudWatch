@@ -48,6 +48,10 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800566057_ColorImages.pdf).
 
+### Code in Action
+Click on following link to see the Code in Action:
+http://bit.ly/3vgjYuk
+
 ### Related products
 * Hands-On AWS Penetration Testing with Kali Linux [[Packt]](https://www.packtpub.com/product/hands-on-aws-penetration-testing-with-kali-linux/9781789136722?utm_source=github&utm_medium=repository&utm_campaign=9781789136722) [[Amazon]](https://www.amazon.com/dp/1789136725)
 
