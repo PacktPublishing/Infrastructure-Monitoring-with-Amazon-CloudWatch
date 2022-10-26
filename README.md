@@ -61,3 +61,7 @@ Click on following link to see the Code in Action:
 is a technology lover at heart who started his journey into technology back in 2003. At an early age, he finished mastering Windows 98 applications. He learned coding in Visual Basic 6.0 with the help of his brother.
 Afterward, he mastered other programming languages, building both desktop and web applications. Ewere moved into cloud computing and DevOps and has been practicing, training, and mentoring for close to a decade now.
 He worked closely with other like minds to start the AWS User Group in Nigeria and fostered DevOps Nigeria Group vibrancy. In 2020 he was awarded the first AWS Community Hero award in Africa. Ewere also runs a training institute and has a blog on Medium where he writes about cloud computing and DevOps.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800566057">https://packt.link/free-ebook/9781800566057 </a> </p>
